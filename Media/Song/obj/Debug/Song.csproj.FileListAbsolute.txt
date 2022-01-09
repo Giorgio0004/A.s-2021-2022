@@ -1,0 +1,12 @@
+C:\Users\Utente\Desktop\SCUOLA\Info\c#\Media\Song\obj\Debug\Song.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\SCUOLA\Info\c#\Media\Song\obj\Debug\Song.Form1.resources
+C:\Users\Utente\Desktop\SCUOLA\Info\c#\Media\Song\obj\Debug\Song.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\SCUOLA\Info\c#\Media\Song\bin\Debug\Song.exe.config
+C:\Users\Utente\Desktop\SCUOLA\Info\c#\Media\Song\bin\Debug\Song.exe
+C:\Users\Utente\Desktop\SCUOLA\Info\c#\Media\Song\bin\Debug\Song.pdb
+C:\Users\Utente\Desktop\SCUOLA\Info\c#\Media\Song\obj\Debug\Song.Properties.Resources.resources
+C:\Users\Utente\Desktop\SCUOLA\Info\c#\Media\Song\obj\Debug\Song.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\SCUOLA\Info\c#\Media\Song\obj\Debug\Song.exe
+C:\Users\Utente\Desktop\SCUOLA\Info\c#\Media\Song\obj\Debug\Song.pdb
+C:\Users\Utente\Desktop\SCUOLA\Info\c#\Media\Song\obj\Debug\Interop.WMPLib.dll
+C:\Users\Utente\Desktop\SCUOLA\Info\c#\Media\Song\obj\Debug\Song.csproj.ResolveComReference.cache

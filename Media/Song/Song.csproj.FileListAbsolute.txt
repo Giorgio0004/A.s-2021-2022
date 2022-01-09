@@ -1,0 +1,10 @@
+C:\Users\6189989\source\repos\Song\Song\obj\Debug\Song.csproj.AssemblyReference.cache
+C:\Users\6189989\source\repos\Song\Song\obj\Debug\Song.Form1.resources
+C:\Users\6189989\source\repos\Song\Song\obj\Debug\Song.Properties.Resources.resources
+C:\Users\6189989\source\repos\Song\Song\obj\Debug\Song.csproj.GenerateResource.cache
+C:\Users\6189989\source\repos\Song\Song\obj\Debug\Song.csproj.CoreCompileInputs.cache
+C:\Users\6189989\source\repos\Song\Song\bin\Debug\Song.exe.config
+C:\Users\6189989\source\repos\Song\Song\bin\Debug\Song.exe
+C:\Users\6189989\source\repos\Song\Song\bin\Debug\Song.pdb
+C:\Users\6189989\source\repos\Song\Song\obj\Debug\Song.exe
+C:\Users\6189989\source\repos\Song\Song\obj\Debug\Song.pdb
